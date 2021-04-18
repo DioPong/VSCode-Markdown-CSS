@@ -20,9 +20,11 @@ You can custom you VSCode markdown css style. Here is my simple style.
 
    ```JSON
    "markdown.styles": [
-        "/path/to/style.css" // Can be remote or local CSS file. 
+        "/path/to/style.css" 
     ]
    ```
+
+   Attention: `/path/to/style.css` Can be remote or local CSS file.
 
    > If you are using both Light/Dark VSCode theme. JSON snippet should be like this:
    >
