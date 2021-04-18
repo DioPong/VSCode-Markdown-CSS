@@ -4,7 +4,11 @@ You can custom you VSCode markdown css style. Here is my simple style.
 
 ## Themes
 
-- [Github](<https://cdn.jsdelivr.net/gh/DioPong/VSCODE-MARKDOWN-CSS@main/scheme/github.css>)
+- [github.css](<https://cdn.jsdelivr.net/gh/DioPong/VSCODE-MARKDOWN-CSS@main/scheme/github.css>)
+
+- [light-default.css](<https://cdn.jsdelivr.net/gh/DioPong/VSCODE-MARKDOWN-CSS@main/scheme/light-default.css>)
+
+- [dark-default.css](<https://cdn.jsdelivr.net/gh/DioPong/VSCODE-MARKDOWN-CSS@main/scheme/dark-default.css>)
 
 - Updating more themes...
 
